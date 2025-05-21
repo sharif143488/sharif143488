@@ -88,20 +88,4 @@
 </section>
 
 <footer>
-  <p>&copy; 2025 Style Verve. All rights reserved.</p>
-</footer>
-
-</body>
-</html>
-```- 👋 Hi, I’m @sharif143488
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sharif143488/sharif143488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p>&copy; 2025 Style Verve. All rights reserved.
